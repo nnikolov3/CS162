@@ -1,0 +1,9 @@
+  README
+  
+  The purpose of Program 3 is to help the user to stay current with the current C++
+  over the summer. In order to do that the program will read a file with already
+  build-in questions and the user will have the opportunity to review the questions. 
+  In addition, the user will be able to add more questions to that file,
+  and mark the questions that have been already reviewed.
+  Using a structure, the questions will be stored
+  with numbers, type, difficulty, and notation if are completed or not.

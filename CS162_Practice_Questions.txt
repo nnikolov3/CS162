@@ -1,0 +1,18 @@
+1:if statement:Write a program that prompts the user to input a number.The program should then output the number and a message saying whether the number is positive, negative or zero.:c
+2:if statement:Write a program that prompts the user to input three numbers. The program should then output the numbers in ascending order.:i
+3:loops:Write a program that reads a set of integers and then finds and prints the sum of even and odd integers. :i
+4:loops:Write a for statement to add all the multiples of 3 between 1 and 100.:i
+5:loops:Write an input statement validation loop that prompts the user to enter a number less than 20 or greater than 75.:c
+6:loops:Write a program that prompts the user to input an integer and then outputs both the individual digits of the number and the sum of the digits. :i
+7:functions:Write a value -returning function ,isVowel, that returns the value true if a given charachter is a vowel and otherwise returns false. :i
+8:functions :Write a program that prompts the user to input a sequence of characters and outputs the number of vowels.:i
+9:functions:Write a function ,reverseDigit , that takes an integer as a parameter and returns the number with its digits reversed. :i
+10:functions :Write a program that prints the day number of the year, given the date in the form month-day-year.The program should check for a leap year.:i
+11:functions:Write a function that takes as a parameter an integer (as a long value) and returns the number of odd,even, and zero digits. Also write a program to test your function.:i
+12:functions:Write a program to convert the time from 24-hour notation to 12 hour notation and vice versa.:i
+13:arrays:Write a C++ function ,smallestIndex that takes as parameters an int array and its size and returns the index of the first occurence of the smallest element in the array.:i
+14:arrays:Write a program that prompts the user to input a string and ouputs the string in uppercase letters.:i
+15:structs:Define a struct ,menuItemType, with two components :m
+16:structs:Write a program that declares a strcut to store the data of a fottball player (player's name,player's position,# of touchdowns,# of catches,# of passing yeyards,# of receiving yards).Declare an array of 10 components to store the data of 10 football players.:i
+17:class:What is a class?:i
+18:class:Write the definitions of the functions to implement the operations defined for the class dateType in Programming Exercise 6.:i
